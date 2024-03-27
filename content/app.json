@@ -1,7 +1,7 @@
 {
 	"name": "cooki.ee",
 	"short_name": "cooki.ee",
-	"start_url": "./",
+	"start_url": "./index.html",
 	"display": "fullscreen",
 	"background_color": "#000",
 	"description": "Personal page of cookie",

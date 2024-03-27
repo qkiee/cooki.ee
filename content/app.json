@@ -2,12 +2,12 @@
 	"name": "cooki.ee",
 	"short_name": "cooki.ee",
 	"start_url": ".",
-	"display": "standalone",
-	"background_color": "#fff",
+	"display": "fullscreen",
+	"background_color": "#000",
 	"description": "Personal page of cookie",
 	"icons":{
 		"src": "content/app.png",
-		"sizes": "192x192",
+		"sizes": "any",
 		"type": "image/png"
 	}	
 }

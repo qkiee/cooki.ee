@@ -6,7 +6,7 @@
 	"theme_color": "#000000",
 	"background_color": "#000000",
 	"icons":{
-		"src": "./app.png",
+		"src": "/app.png",
 		"purpose":"any",
 		"sizes": "any",
 		"type": "image/png"

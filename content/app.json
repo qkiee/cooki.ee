@@ -1,13 +1,40 @@
 {
 	"name": "cooki.ee",
 	"short_name": "cooki.ee",
-	"start_url": ".",
+	"start_url": "./",
 	"display": "standalone",
-	"background_color": "#fff",
+	"background_color": "rgba(0, 0, 0, 0)",
 	"description": "Personal page of cookie",
-	"icons":{
-		"src": "content/app.png",
-		"sizes": "192x192",
+	"icons":[
+	{
+		"src":"content/app.png",
+		"size": "48x48",
 		"type": "image/png"
-	}	
+	},
+	{
+		"src":"content/app.png",
+		"size": "72x72",
+		"type": "image/png"
+	},
+	{
+		"src":"content/app.png",
+		"size": "96x96",
+		"type": "image/png"
+	},
+	{
+		"src":"content/app.png",
+		"size": "144x144",
+		"type": "image/png"
+	},
+	{
+		"src":"content/app.png",
+		"size": "168x168",
+		"type": "image/png"
+	},
+	{
+		"src":"content/app.png",
+		"size": "192x192",
+		"type": "image/png"
+	},
+],
 }

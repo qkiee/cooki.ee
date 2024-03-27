@@ -1,8 +1,9 @@
 {
 	"name": "cooki.ee",
 	"short_name": "cooki.ee",
-	"start_url": ".",
-	"display": "standalone",
+	"start_url": ".?fullscreen=true",
+	"display": "fullscreen",
+	"theme_color": "black",
 	"background_color": "black",
 	"icons":{
 		"src": "./app.png",

@@ -3,10 +3,10 @@
 	"short_name": "cooki.ee",
 	"start_url": ".",
 	"display": "fullscreen",
-	"background_color": "#000",
+	"background_color": "#000000",
 	"description": "Personal page of cookie",
 	"icons":{
-		"src": "content/app.png",
+		"src": "./app.png",
 		"sizes": "any",
 		"type": "image/png"
 	}	
